@@ -1,0 +1,82 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 2,
+            "hideicon": false,
+            "hideiconafter": 10,
+            "iconurl": "https://i.imgur.com/iu2mLfE.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": false,
+            "openonstartonlynewplayers": false,
+            "updateinterval": 24
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Настройки",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Настройки сервера",
+                        "text": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!"
+                    },
+                    {
+                        "title": "Команды чата",
+                        "text": "This text goes into the right box"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Правила",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Правила сервера",
+                        "text": "This text goes into the left box"
+                    },
+                    {
+                        "title": "Торговые отношения",
+                        "text": "This text goes into the right box"
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "Бонусы и подарки",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Бонусы и подарки кластера",
+                        "text": "This text goes into the left box"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Магазин",
+                "url": "https://asa-greenearth-x5-pve.survivalshop.org/"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.com/invite/rBDK5rT"
+            },
+            {
+                "text": "VK",
+                "url": "https://vk.com/greenearthpvp"
+            },
+            {
+                "text": "Торговый калькулятор",
+                "url": "https://docs.google.com/spreadsheets/d/14EI3wD0gQhr95oWVq7Hb1SXrfWpkQj96DnUks8U5zCQ/edit?gid=1062182699#gid=1062182699"
+            },
+            {
+                "text": "Quests",
+                "url": "https://docs.google.com/spreadsheets/d/1OOCP720dF3VlOvshQXlvH_R_7pZDHoOaSbCjO8HTGl8/edit?usp=sharing"
+            }
+        ],
+        "version": 3
+    }
+}
